@@ -19,6 +19,7 @@
     "@tanstack/react-virtual": "^3.13.0",
     "idb-keyval": "^6.2.1",
     "jq-web": "^0.6.2",
+    "lodash": "^4.17.23",
     "lucide-react": "^0.468.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
